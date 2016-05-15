@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent"
+
+
+        >
+    <RelativeLayout android:layout_width="fill_parent" android:layout_height="50dp">
+        <ImageButton
+                android:id="@+id/back"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/ic_launcher"
+                android:layout_alignParentLeft="true"
+                />
+        <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:id="@+id/text"
+                android:text="@string/memo"
+                android:gravity="center"
+                android:layout_centerInParent="true"
+
+                />
+        <ImageButton
+                android:id="@+id/add"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/ic_launcher"
+                android:layout_alignParentRight="true"
+
+
+                />
+    </RelativeLayout>
+
+    <EditText
+            android:id="@+id/edittext"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:gravity="top"
+            android:hint=""
+            />
+    <ListView
+            android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+            android:id="@android:id/list"
+            android:layout_weight="2"
+            ></ListView>
+
+    <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" >
+
+
+
+        <Button
+                android:id="@+id/AddPhoto"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="拍照" />
+
+        <Button
+                android:id="@+id/AddVideo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="录像"
+                android:layout_weight="1" />
+    </LinearLayout>
+
+
+</LinearLayout>
+

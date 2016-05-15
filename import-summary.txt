@@ -1,0 +1,184 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .idea\
+* .idea\.name
+* .idea\compiler.xml
+* .idea\copyright\
+* .idea\copyright\profiles_settings.xml
+* .idea\dictionaries\
+* .idea\dictionaries\Administrator.xml
+* .idea\dictionaries\bingbing_qin.xml
+* .idea\encodings.xml
+* .idea\misc.xml
+* .idea\modules.xml
+* .idea\scopes\
+* .idea\scopes\scope_settings.xml
+* .idea\uiDesigner.xml
+* .idea\vcs.xml
+* .idea\workspace.xml
+* ant.properties
+* build.xml
+* code\
+* code\gift\
+* code\gift\.idea\
+* code\gift\.idea\.name
+* code\gift\.idea\compiler.xml
+* code\gift\.idea\copyright\
+* code\gift\.idea\copyright\profiles_settings.xml
+* code\gift\.idea\dictionaries\
+* code\gift\.idea\dictionaries\Administrator.xml
+* code\gift\.idea\dictionaries\bingbing_qin.xml
+* code\gift\.idea\encodings.xml
+* code\gift\.idea\misc.xml
+* code\gift\.idea\modules.xml
+* code\gift\.idea\scopes\
+* code\gift\.idea\scopes\scope_settings.xml
+* code\gift\.idea\uiDesigner.xml
+* code\gift\.idea\vcs.xml
+* code\gift\.idea\workspace.xml
+* code\gift\AndroidManifest.xml
+* code\gift\ant.properties
+* code\gift\build.xml
+* code\gift\gen\
+* code\gift\gen\com\
+* code\gift\gen\com\example\
+* code\gift\gen\com\example\gift\
+* code\gift\gen\com\example\gift\BuildConfig.java
+* code\gift\gen\com\example\gift\Manifest.java
+* code\gift\gen\com\example\gift\R.java
+* code\gift\gift.iml
+* code\gift\local.properties
+* code\gift\out\
+* code\gift\out\production\
+* code\gift\out\production\gift\
+* code\gift\out\production\gift\com\
+* code\gift\out\production\gift\com\example\
+* code\gift\out\production\gift\com\example\gift\
+* code\gift\out\production\gift\com\example\gift\BuildConfig.class
+* code\gift\out\production\gift\com\example\gift\DbHelper.class
+* code\gift\out\production\gift\com\example\gift\FActivity$1.class
+* code\gift\out\production\gift\com\example\gift\FActivity$2.class
+* code\gift\out\production\gift\com\example\gift\FActivity$3$1.class
+* code\gift\out\production\gift\com\example\gift\FActivity$3$2.class
+* code\gift\out\production\gift\com\example\gift\FActivity$3.class
+* code\gift\out\production\gift\com\example\gift\FActivity$MediaAdapter.class
+* code\gift\out\production\gift\com\example\gift\FActivity$MediaListCellData.class
+* code\gift\out\production\gift\com\example\gift\FActivity$MediaType.class
+* code\gift\out\production\gift\com\example\gift\FActivity.class
+* code\gift\out\production\gift\com\example\gift\MyActivity$1.class
+* code\gift\out\production\gift\com\example\gift\MyActivity$2$1.class
+* code\gift\out\production\gift\com\example\gift\MyActivity$2$2.class
+* code\gift\out\production\gift\com\example\gift\MyActivity$2.class
+* code\gift\out\production\gift\com\example\gift\MyActivity.class
+* code\gift\out\production\gift\com\example\gift\R$attr.class
+* code\gift\out\production\gift\com\example\gift\R$drawable.class
+* code\gift\out\production\gift\com\example\gift\R$id.class
+* code\gift\out\production\gift\com\example\gift\R$layout.class
+* code\gift\out\production\gift\com\example\gift\R$string.class
+* code\gift\out\production\gift\com\example\gift\R.class
+* code\gift\out\production\gift\gift.apk
+* code\gift\out\production\gift\gift.unaligned.apk
+* code\gift\proguard-project.txt
+* code\gift\project.properties
+* code\gift\res\
+* code\gift\res\drawable-hdpi\
+* code\gift\res\drawable-hdpi\ic_launcher.png
+* code\gift\res\drawable-ldpi\
+* code\gift\res\drawable-ldpi\ic_launcher.png
+* code\gift\res\drawable-mdpi\
+* code\gift\res\drawable-mdpi\ic_launcher.png
+* code\gift\res\drawable-xhdpi\
+* code\gift\res\drawable-xhdpi\ic_launcher.png
+* code\gift\res\layout\
+* code\gift\res\layout\factivity.xml
+* code\gift\res\layout\listview.xml
+* code\gift\res\layout\main.xml
+* code\gift\res\layout\src_list.xml
+* code\gift\res\values\
+* code\gift\res\values\strings.xml
+* code\gift\src\
+* code\gift\src\com\
+* code\gift\src\com\example\
+* code\gift\src\com\example\gift\
+* code\gift\src\com\example\gift\DbHelper.java
+* code\gift\src\com\example\gift\FActivity.java
+* code\gift\src\com\example\gift\MyActivity.java
+* gift.iml
+* out\
+* out\production\
+* out\production\gift\
+* out\production\gift\com\
+* out\production\gift\com\example\
+* out\production\gift\com\example\gift\
+* out\production\gift\com\example\gift\BuildConfig.class
+* out\production\gift\com\example\gift\DbHelper.class
+* out\production\gift\com\example\gift\FActivity$1.class
+* out\production\gift\com\example\gift\FActivity$2.class
+* out\production\gift\com\example\gift\FActivity$3$1.class
+* out\production\gift\com\example\gift\FActivity$3$2.class
+* out\production\gift\com\example\gift\FActivity$3.class
+* out\production\gift\com\example\gift\FActivity$MediaAdapter.class
+* out\production\gift\com\example\gift\FActivity$MediaListCellData.class
+* out\production\gift\com\example\gift\FActivity$MediaType.class
+* out\production\gift\com\example\gift\FActivity.class
+* out\production\gift\com\example\gift\MyActivity$1.class
+* out\production\gift\com\example\gift\MyActivity$2$1.class
+* out\production\gift\com\example\gift\MyActivity$2$2.class
+* out\production\gift\com\example\gift\MyActivity$2.class
+* out\production\gift\com\example\gift\MyActivity.class
+* out\production\gift\com\example\gift\R$attr.class
+* out\production\gift\com\example\gift\R$drawable.class
+* out\production\gift\com\example\gift\R$id.class
+* out\production\gift\com\example\gift\R$layout.class
+* out\production\gift\com\example\gift\R$string.class
+* out\production\gift\com\example\gift\R.class
+* out\production\gift\gift.apk
+* out\production\gift\gift.unaligned.apk
+* proguard-project.txt
+* snapshot picture\
+* snapshot picture\PVsave.png
+* snapshot picture\changememo.png
+* snapshot picture\mianActibity.png
+* snapshot picture\onClickFadd.png
+* snapshot picture\onClickPhoto.png
+* snapshot picture\onClickView.png
+* snapshot picture\onLongClick.png
+* snapshot picture\onLongClickDele.png
+* snapshot picture\openway.png
+* word\
+* word\Gift功能.docx
+* word\Gift程序分析.docx
+* word\总结.docx
+* ~$ft程序分析.docx
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* assets\ => app\src\main\assets
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

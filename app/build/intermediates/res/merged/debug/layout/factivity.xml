@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent">
+    <RelativeLayout android:layout_width="fill_parent" android:layout_height="50dp">
+        <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:text="@string/memo"
+                android:gravity="center"
+                android:layout_centerInParent="true"
+                />
+    <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_launcher"
+            android:id="@+id/fadd"
+            android:layout_alignParentRight="true"
+
+            />
+    </RelativeLayout>
+    <ListView android:layout_width="wrap_content" android:layout_height="wrap_content"
+            android:id="@android:id/list"
+            ></ListView>
+</LinearLayout>
